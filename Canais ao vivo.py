@@ -1,4 +1,4 @@
-#transformar primeiramente lista m3u em txt
+#transformar primeiramente lista m3u em txt!
 f = open('listaM3U.txt','r') #Lista geral de canais IPTV com filmes/series/canais 24H/ mineração apenas para canais ao vivo
 
 vet = []
