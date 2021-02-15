@@ -58,7 +58,7 @@ def generosParaCadaCanal():#coloca cada canal canal da lista m3u em um gênero e
             if(flag):
                 break
             for k in dicio[i]:#cada canal
-                if(vet[0].find(k)!=-1):#se encontrar o canal em um determinado genero
+                if(vet[0].lower().find(k.lower())!=-1):#se encontrar o canal em um determinado genero
                     flag=True
                     aux.append(vet[0][:10]+" "+"group-title=\""+i+"\""+vet[0][10:])
                     break

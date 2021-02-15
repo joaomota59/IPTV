@@ -36,7 +36,7 @@ TruTV
 Viva
 Woohoo
 Entretenimento para jovens e adolescentes
-BBB Pay-Per-View
+BBB 
 MTV
 Loading (TV Aberta)
 Adultos
@@ -63,22 +63,21 @@ SporTV
 SporTV 2
 SporTV 3
 Internacionais
-Al Jazeera (Oriente Médio e Norte da África)
-BBC World News (Reino Unido)
-CGTN (China)
-CNN en Español (América Latina e Estados Unidos)
-CNN International (Estados Unidos)
-DW (Alemanha)
-Euronews (União Européia)
-Fox News Channel (Estados Unidos)
-NHK World (Japão)
-Rai Italia (Itália)
-RTP Internacional (Portugal)
-SIC Internacional (Portugal)
-Telefe Internacional (Argentina)
-TV5Monde (França)
-TVE Internacional (Espanha)
-TV Coreia (Coréia do Sul)
+Al Jazeera
+BBC World News 
+CGTN 
+CNN
+DW 
+Euronews 
+Fox News Channel 
+NHK World 
+Rai Italia 
+RTP Internacional 
+SIC
+Telefe
+TV5Monde
+TVE
+TV Coreia
 Exclusivamente Cinematográficos
 Megapix
 Telecine Action
@@ -181,12 +180,12 @@ Trace Toca
 Trace Urban
 VH1
 TV Pública
-TV Brasil (Governo Federal do Brasil)
-TV Câmara (Câmara dos Deputados do Brasil)
-TV Cultura (Governo do Estado de São Paulo)
-TV Escola (Ministério da Educação do Brasil)
-TV Justiça (Supremo Tribunal Federal)
-TV Senado (Senado Federal do Brasil)
+TV Brasil 
+TV Câmara
+TV Cultura 
+TV Escola
+TV Justiça
+TV Senado
 Religiosos (TV Aberta)
 RCI
 Rede Vida
